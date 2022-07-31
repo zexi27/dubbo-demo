@@ -1,4 +1,4 @@
-package com.zlq.dubbo;
+package com.zlq.dubbo.service.impl;
 
 import com.zlq.api.DemoDubboService;
 import com.zlq.dubbo.service.DemoDubboConsumerService;
