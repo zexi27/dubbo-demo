@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 /**
  * @ProjectName:dubbo-demo
  * @Package:com.zlq.dubbleconsumer
- * @ClassName: DemoDubbleConsumer
+ * @ClassName: DemoDubboConsumer
  * @description:
  * @author: LiQun
  * @CreateDate:2022/7/28 18:37
